@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Setup Server",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "Read Medium Articles for ReactJS",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "name": "Function Programming Course",
+      "isComplete": false
+    },
+    {
+      "id": 4,
+      "name": "Setup Docker on Mac",
+      "isComplete": true
+    },
+    {
+      "id": 5,
+      "name": "Setup Webpack for new Project",
+      "isComplete": false
+    }
+  ]
+}
